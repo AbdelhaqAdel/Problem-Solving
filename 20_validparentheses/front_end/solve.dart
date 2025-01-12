@@ -1,11 +1,10 @@
-import 'dart:io';
 
 class FrontEnd{
   static void solve(){
-    String? input =stdin.readLineSync();
-    int n=int.parse(input!);
-    String? inputList=stdin.readLineSync();
-    List<String> strList=inputList!.split(' ');
+    // String? input =stdin.readLineSync();
+    // int n=int.parse(input!);
+    // String? inputList=stdin.readLineSync();
+    // List<String> strList=inputList!.split(' ');
     }
 }
 
