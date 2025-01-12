@@ -2,8 +2,8 @@ import 'dart:io';
 
 class RecursionExample {
   static void solve(){
-    String? stirngInput=stdin.readLineSync();
-    int intInput=int.parse(stirngInput!);
+    String? stringInput=stdin.readLineSync();
+    int intInput=int.parse(stringInput!);
     factorial(intInput);
 
   }
