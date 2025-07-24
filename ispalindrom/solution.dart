@@ -16,3 +16,9 @@ class IsPalindromSolution{
   } 
 }
 
+
+
+void main(){
+   IsPalindromSolution.setNumberAndCheckIsPalindrome();
+ 
+}
