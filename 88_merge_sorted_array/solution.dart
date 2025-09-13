@@ -9,15 +9,15 @@ class Solution {
         merged.add(nums2[j++]);
       }
     }
-           print(i);       print(j);
-        print(merged);
+        //    print(i);       print(j);
+        // print(merged);
 
     while (i < m) {
        merged.add(nums1[i++]);
     }
     while (j < n) {
       merged.add(nums2[j++]);}
-        print(merged);
+        // print(merged);
 
   }
 }
